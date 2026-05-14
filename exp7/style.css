@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 400px;
+  margin: 40px auto;
+  border: 2px solid black;
+  padding: 20px;
+  background-color: #ececec;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 25px;
+  font-size: 42px;
+  font-weight: bold;
+  color: black;
+}
+
+.card {
+  background-color: white;
+  padding: 25px;
+  margin: 20px auto;
+  width: 250px;
+  border-radius: 15px;
+  box-shadow: 0px 2px 8px gray;
+}
+
+.card h2 {
+  color: #0d3b66;
+  margin-bottom: 20px;
+  font-size: 22px;
+}
+
+.card p {
+  font-size: 18px;
+  margin: 15px 0;
+  color: black;
+}
